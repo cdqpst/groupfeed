@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://E://vkfeed/vkfeed.iml" filepath="E://vkfeed/vkfeed.iml" />
+      <module fileurl="file://E:/vksdk_library/src/vksdk/vksdk.iml" filepath="E:/vksdk_library/src/vksdk/vksdk.iml" />
     </modules>
   </component>
 </project>
